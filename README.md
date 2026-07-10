@@ -14,6 +14,7 @@ The conviction that physical architecture needs a human technician in the loop w
 | 03-SHIP-INTELLIGENCE.md | Monitoring, alerting, knowledge graphs for vessels |
 | 04-TRAINING-PORT.md | Viral technician network from fishing ports |
 | 05-COCAPN-FOUNDATION.md | How the Cocapn agent runtime powers everything |
+| 06-EDUCATIONAL-PLATFORM.md | Digital coursework layer for the Training Port — three tracks built from verified repos |
 
 ## The Ecosystem
 
